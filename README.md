@@ -1,0 +1,3 @@
+# Drum_Set
+A fun experiment to get hands-on experience with Javascript and DOM manupilation.
+Open it and give it a try if you are an expert in playing drums.....
